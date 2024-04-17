@@ -1,3 +1,4 @@
+- Hello there! My name is Shteryu👋
 - I’m interested in programming, games and sports 👀 
 - I’m currently learning Web development at Software University in Sofia 🌱 
 
